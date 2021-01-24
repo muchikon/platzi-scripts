@@ -2,5 +2,4 @@
 
 Dummy tests are in `jenkins-tests`
 
-Fin
-End
+End of file
